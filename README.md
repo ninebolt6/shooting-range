@@ -6,3 +6,7 @@
 ## 使用ライブラリ
 - freeglut
 - windows.h
+
+## プレイ動画
+https://user-images.githubusercontent.com/67471674/172041712-2c168c3e-91c3-4b4f-8be5-c76db42954b2.mp4
+
